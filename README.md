@@ -1,4 +1,6 @@
-A 3rd Year IT Student, currently aiming to become a backend developer.
+A 3rd Year IT student aiming to be a Full-stack developer
 
-Have made a few projects, with current major one, a Discord bot @TenshiBot.
-
+Tech Stack:
+WAMP
+HTML, CSS, Javascript
+Java, Dart (Flutter), Python, C#, C++
