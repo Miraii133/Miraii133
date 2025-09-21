@@ -1,4 +1,4 @@
-A 4th Year IT student aiming to be a Full-stack developer  
+Full-stack Developer
 <br></br>
 <span>![Miraii133's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miraii133&theme=omni&hide_border=false)</span>
 
